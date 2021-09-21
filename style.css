@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    color: white ;
+    background-color: deepskyblue;
+}
+.header {
+    background-color: #FFC107 ;
+    padding: 40px;
+}
+.Blog-header {
+    border: #FFC107 ;
+    background-color: deepskyblue;
+}
