@@ -4,10 +4,9 @@ body {
     background-color: deepskyblue;
     font-family: 'Kanit', sans-serif;
 }
-.header {
+.Header {
     background-color: #FFC107 ;
     padding: 40px;
-    font-weight: bolder ;
 }
 .Blog-header {
     align-items: center;
@@ -15,4 +14,7 @@ body {
     background-color: deepskyblue;
     padding: 20px;
     width: 75vw;
+}
+.Test-images {
+    height: ;
 }
