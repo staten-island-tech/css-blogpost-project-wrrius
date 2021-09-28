@@ -8,10 +8,11 @@ body {
 }
 .Blog-header {
     align-items: center;
-    border: 4px solid #FFC107 ;
+    border: 10px solid #FFC107 ;
     background-color: deepskyblue;
     padding: 20px;
     width: 75vw;
+    margin: 20px auto;
 }
 #Mario {
     width: 900px; 
@@ -24,4 +25,20 @@ body {
     height: 767px;
     object-fit: cover;
     object-position: -100% 56%;
+}
+.images {
+    margin: 15px auto;
+}
+.ads {
+    width: 808px;
+    height: 400px;
+    object-fit: cover;
+    object-position: 100% 0;
+    position: absolute;
+}
+#ad1 {
+    left: 50px;
+}
+#ad2 {
+    left: 1050px;
 }
