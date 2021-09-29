@@ -17,20 +17,10 @@ body {
 .Subtext {
     font-size: 150%;
 }
-#Mario {
-    width: 900px; 
-    height: 524px;
-    object-fit: cover;
-    object-position: -100% 0;
-}
-#Chart {
-    width: 750px;
-    height: 767px;
-    object-fit: cover;
-    object-position: -100% 56%;
-}
 .images {
     margin: 15px;
+    max-width:100%;
+    height:auto;
 }
 .ads {
     width: 808px;
