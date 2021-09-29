@@ -4,15 +4,18 @@ body {
     background-color: deepskyblue;
     font-family: 'Kanit', sans-serif;
     align-items: center;
-    margin: 20px 0px 0px 20px;
+    margin: 0px 0px 0px 20px;
 }
-.Blog-header {
+.Blogs {
     align-items: center;
     border: 10px solid #FFC107 ;
     background-color: deepskyblue;
     padding: 20px;
     width: 75vw;
     margin: 20px auto;
+}
+.Subtext {
+    font-size: 150%;
 }
 #Mario {
     width: 900px; 
@@ -27,7 +30,7 @@ body {
     object-position: -100% 56%;
 }
 .images {
-    margin: 15px auto;
+    margin: 15px;
 }
 .ads {
     width: 808px;
