@@ -4,7 +4,6 @@ body {
     background-color: deepskyblue;
     font-family: 'Kanit', sans-serif;
     align-items: center;
-    margin: 0px 0px 0px 20px;
 }
 .Blogs {
     align-items: center;
@@ -23,15 +22,13 @@ body {
     height:auto;
 }
 .ads {
-    width: 808px;
-    height: 400px;
-    object-fit: cover;
-    object-position: 100% 0;
-    position: absolute;
-}
-#ad1 {
-    left: 50px;
+    max-width:100%;
+    height:auto;
+    align-items: center;
 }
 #ad2 {
-    left: 1050px;
+    position: absolute;
+    left: 1635px;
+    bottom: 500px;
+    transform: rotate(90deg);
 }
